@@ -21,9 +21,10 @@ This project detects pneumonia in chest X-ray images using the RSNA dataset and 
    pip install -r requirements.txt
 
 2. Run preprocessing
-    
+    ```bash
     python preprocess.py
 
 3. Train the YOLOv8 model:
 
+   ```bash
     python train_yolo.py
