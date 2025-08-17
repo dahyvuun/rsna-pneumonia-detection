@@ -1,0 +1,5 @@
+path: /content/rsna_yolo_subset
+train: images/train
+val: images/val
+names:
+  0: pneumonia
