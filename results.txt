@@ -1,0 +1,19 @@
+Image 9
+ Built-in: 0 boxes
+ Custom NMS: 2 boxes
+
+Processed 4 images with predictions.
+Total YOLO Boxes: 16
+Total Custom NMS Boxes: 7
+
+== YOLO Built-in NMS ==
+TP: 3, FP: 19, FN: 3
+Precision: 0.1364
+Recall:    0.5000
+F1 Score:  0.2143
+
+== Custom NMS (ensemble-boxes) ==
+TP: 1, FP: 9, FN: 4
+Precision: 0.1000
+Recall:    0.2000
+F1 Score:  0.1333
