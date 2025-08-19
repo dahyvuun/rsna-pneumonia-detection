@@ -1,0 +1,18 @@
+== YOLO Built-in NMS ==
+TP: 44, FP: 13156, FN: 0
+Precision: 0.0033
+Recall:    1.0000
+F1 Score:  0.0066
+
+== Weighted Boxes Fusion (WBF) Results ==
+TP: 24, FP: 4, FN: 2
+Precision: 0.8571
+Recall:    0.9231
+F1 Score:  0.8889
+
+
+== Soft-NMS Results ==
+TP: 24, FP: 8, FN: 2
+Precision: 0.7500
+Recall:    0.9231
+F1 Score:  0.8276
